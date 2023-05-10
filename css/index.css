@@ -38,7 +38,7 @@ div .head {
 /* select the first of type of .head immediately after ul */
 
 ul>.head {
-    font-size: 3vw;
+    font-size: 3.5vw;
     font-weight: 900;
     margin-left: 30px;
 }
