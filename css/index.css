@@ -32,12 +32,13 @@ header nav ul li {
 
 div .head {
     margin-right: 30px;
+    font-size: 3vw;
 }
 
 /* select the first of type of .head immediately after ul */
 
 ul>.head {
-    font-size: 1.2rem;
+    font-size: 3vw;
     font-weight: 900;
     margin-left: 30px;
 }
