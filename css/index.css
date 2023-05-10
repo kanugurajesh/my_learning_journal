@@ -45,18 +45,3 @@ ul>.head {
 main {
     width: 100vw;
 }
-
-/* #first {
-    color: white;
-    max-width: 100vw;
-    min-height: 40vh;
-    background-image: url("../images/laptop.jpg");
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    padding: 0 10vw;
-    justify-content: end;
-    box-sizing: border-box;
-    overflow: scroll;
-} */
