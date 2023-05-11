@@ -125,7 +125,36 @@ footer {
         height: 30vh;
         padding-top: 5vh;
     }
+}
 
+@media (max-width:750px) {
+    div .head {
+        font-size: 1.5vh;
+    }
+
+    ul>.head {
+        font-size: 2vh;
+    }
+}
+
+@media (max-width:500px) {
+    div .head {
+        font-size: 1vh;
+    }
+
+    ul>.head {
+        font-size: 1.5vh;
+    }
+}
+
+@media (max-width:400px) {
+    div .head {
+        font-size: 1vh;
+    }
+
+    ul>.head {
+        font-size: 1.5vh;
+    }
 }
 
 #last {
