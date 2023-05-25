@@ -39,6 +39,7 @@ header nav ul {
     justify-content: space-between;
     align-items: center;
     list-style: none;
+    font-size: 10px;
 }
 
 header nav ul li {
@@ -166,4 +167,8 @@ footer {
 
 #last:hover {
     cursor: pointer;
+}
+
+img {
+    width: 40px;
 }
